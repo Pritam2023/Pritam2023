@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pritam Chatterjee... and I'm a student of Computer Science and Engineering ....</h2>
+<h1 align="center"><b>Hi , I'm Pritam Chatterjee </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ###
 ## 🛠️ My Skills
