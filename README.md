@@ -77,5 +77,5 @@
 
 ### 🔥 Streak Stats
 
-![Pritam's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
+![Pritam's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Pritam2023&theme=tokyonight)
 
