@@ -78,7 +78,7 @@
 ###
 ## My Projects ✨
   
-<a href="https://github.com/Pritam2023/FYP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pritam2023&repo=Realtime Chat Application&theme=tokyonight" />
+<a href="https://github.com/Pritam2023/Chat-Application-FYP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pritam2023&repo=Chat-Application-FYP&theme=tokyonight" />
 </a>
 
