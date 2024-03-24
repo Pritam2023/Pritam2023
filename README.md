@@ -33,7 +33,7 @@
 </div>
 
 ###
-##<b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <div align="left">
   <a href="https://www.instagram.com/pritamchatterjee136/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -58,7 +58,7 @@
 ###
 &emsp;
 
-## 📈 My GitHub Stats and Activity
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats and Activity </b>
 
 ### 💻 Profile Stats
 
