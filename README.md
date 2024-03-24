@@ -10,8 +10,7 @@
 - Portfolio website [link](https://pritamchatterjee.netlify.app)
 - I’m currently open to do internship
 - My hobbies are playing cricket,listening to music
-</br>
-###
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
