@@ -1,8 +1,17 @@
 <h1 align="center"><b>Hi , I'm Pritam Chatterjee </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-###
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+- I'm a student of Computer Science and Engineering
+- I'm currently working on Full Stack Web Development
+- Learning DSA with JAVA
+- I have cracked GATE CS paper with 98 Percentile
+- Portfolio website [link](https://pritamchatterjee.netlify.app)
+- I’m currently open to do internship
+- My hobbies are playing cricket,listening to music
+</br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
 <div align="left">
