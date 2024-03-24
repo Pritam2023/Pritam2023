@@ -6,12 +6,13 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I'm a student of Computer Science and Engineering
+- I'm currently working on Full Stack Web Development
+- Learning DSA with JAVA
+- I have cracked GATE CS paper with 98 Percentile
+- Portfolio website [link](https://pritamchatterjee.netlify.app)
+- I’m currently open to do internship
+- My hobbies are playing cricket,listening to music
 ###
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
 <div align="left">
@@ -81,7 +82,7 @@
 ###
 ## My Projects ✨
   
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+<a href="https://github.com/Pritam2023/FYP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pritam2023&repo=Realtime Chat Application&theme=tokyonight" />
 </a>
 
