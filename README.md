@@ -69,7 +69,3 @@
 
 ![Pritam's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
 
-### 📊 Contribution Stats
-
-<img alt="Pritam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Pritam2023&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
