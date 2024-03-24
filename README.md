@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Pritam Chatterjee... and I'm a student of Computer Science and Engineering ....</h2>
 
 ###
-
+## 🛠️ My Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
   <img width="12" />
