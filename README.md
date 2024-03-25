@@ -104,4 +104,6 @@
 <a href="https://github.com/Pritam2023/Chat-Application-FYP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pritam2023&repo=Chat-Application-FYP&theme=tokyonight" />
 </a>
-
+<a href="https://github.com/Pritam2023/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pritam2023&repo=Portfolio&theme=tokyonight" />
+</a>
