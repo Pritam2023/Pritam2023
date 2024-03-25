@@ -1,5 +1,6 @@
-<h1 align="center"><img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="center"/></h1>
-<h1 align="center"><b>Hi , I'm Pritam Chatterjee </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="center"/>
+</br>
+<b>Hi , I'm Pritam Chatterjee </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
