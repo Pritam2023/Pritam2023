@@ -12,7 +12,7 @@
 - I’m currently open to do internship
 - My hobbies are playing cricket,listening to music
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -78,7 +78,7 @@
 
 ![Pritam's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Pritam2023&theme=tokyonight)
 ###
-## My Projects ✨
+## 💡My Projects
   
 <a href="https://github.com/Pritam2023/Chat-Application-FYP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pritam2023&repo=Chat-Application-FYP&theme=tokyonight" />
